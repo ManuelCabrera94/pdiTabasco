@@ -1,0 +1,401 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.23911972,18.43788506 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANT BAR CLUB DE PLAYAS EL VARADERO",
+    "direccion":"Ranchería Las Flores 2d Sección ",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.21428081,18.39725395 ]
+    },
+    "properties": {
+    "nombre":"EMILION RESTAURANTE",
+    "direccion":"Calle Gregorio Méndez Magaña Calle Ignacio Zaragoza Calle Hermenegildo Galeana Calle Benito Juárez Colonia Centro Paraíso",
+    "telefono":"933334099"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.21450219,18.40960655 ]
+    },
+    "properties": {
+    "nombre":"HEREFORD RESTAURANTE",
+    "direccion":"Boulevard Libramiento A Dos Bocas Calle Camino Vecinal Los Milla Calle Al Escribano Colonia Limón Paraíso",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.21218335,18.4007582 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANT BAR EL CAMARONCITO",
+    "direccion":"Calle Benito Juárez  Calle Ingeniero Hernández Carrillo Calle Nicolás Bravo Calle Gregorio Méndez Magaña Colonia Centro Paraíso",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.21411512,18.39545128 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANT BAR PEPES",
+    "direccion":"Calle Melchor Ocampo Calle Ignacio Comonfort Calle Miguel Hidalgo Calle Santos Degollado Colonia Centro Paraíso",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.22091496,18.38533806 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANT BAR TABERNA BEER’S",
+    "direccion":"Boulevard Manuel A. Romero Zurita Calle La Palmita Colonia Quintín Arauz Paraíso",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.17380166,18.4135163 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANT COSTA ESMERALDA",
+    "direccion":"Calle 5 De Febrero Calle Torno Largo Calle Los Pescadores Calle José Sánchez Villa Puerto Ceiba Puerto Ceiba",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.17943532,18.41367753 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANT EL ARCA",
+    "direccion":"Calle 5 De Febrero Calle 8 De Octubre Calle 12 De Octubre Villa Puerto Ceiba Puerto Ceiba",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.20568924,18.40185062 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANT LONG HANG",
+    "direccion":"Boulevard Manuel A. Romero Zurita Calle Benito Juárez  Boulevard La Ceiba Residencial Paraíso",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.21406398,18.39650373 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANT MAU",
+    "direccion":"Calle Hermenegildo Galeana Calle Melchor Ocampo Calle Benito Juárez Calle Ignacio Zaragoza Colonia Centro Paraíso",
+    "telefono":"9333330843"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.21610617,18.39479087 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANT MR BURGUER",
+    "direccion":"Calle 5 De Mayo Calle Miguel Hidalgo Calle 2 De Abril Calle Gregorio Méndez Magaña Colonia Centro Paraíso",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.21537992,18.39422629 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANT POLLO FELIZ",
+    "direccion":"Calle 2 De Abril Calle Gregorio Méndez Magaña Calle Benito Juárez Calle Miguel Hidalgo Colonia Centro Paraíso",
+    "telefono":"9331003283"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.21452928,18.40921516 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANT SUSHI MAZ",
+    "direccion":"Boulevard Libramiento A Dos Bocas Calle Camino Vecinal Los Milla Calle Al Escribano Colonia Limón Paraíso",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.21159256,18.39761194 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANT TAMPICO MÍO ",
+    "direccion":"Calle Miguel Lerdo De Tejada Calle Manuel Doblado Calle Gutiérrez Zamora Calle Manuel Doblado Colonia Centro Paraíso",
+    "telefono":"9334062645"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.20787686,18.40057327 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANTE BAR LA CENTRAL",
+    "direccion":"Calle Aquiles Serdán Calle Aquiles Serdán Calle Buenos Aires Calle 8 De Octubre Colonia Centro Central Camionera De Paraíso  ",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.2129382,18.39901845 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANTE COCHINITA PIBIL",
+    "direccion":"Calle Benito Juárez Calle Regino Hernández Llergo Calle Gutiérrez Zamora Centro Paraíso",
+    "telefono":"9331264874"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.21640912,18.39991854 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANTE CON SERVICIO LIMITADO",
+    "direccion":"Calle Leandro Valle Calle Manuel Doblado Boulevard Libramiento A Dos Bocas Calle Manuel Doblado Colonia Centro Paraíso",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.21525958,18.39486737 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANTE DOÑA ELENITA",
+    "direccion":"Calle Miguel Hidalgo Calle Gregorio Méndez Magaña Calle Benito Juárez Calle Quintín Arauz Colonia Centro Paraíso",
+    "telefono":"933331860"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.1782696,18.41356463 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANTE EL MALECÓN",
+    "direccion":"Calle 5 De Febrero Calle 27 De Febrero Calle 12 De Octubre Villa Puerto Ceiba Puerto Ceiba",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.17920559,18.41357197 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANTE EL MALECÓN",
+    "direccion":"Calle 5 De Febrero Calle 8 De Octubre Calle 16 De Septiembre Calle Primero De Mayo Villa Puerto Ceiba",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.21413577,18.39540643 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANTE EL TABASQUEÑISIMO",
+    "direccion":"Calle Melchor Ocampo Calle Ignacio Comonfort Calle Miguel Hidalgo Calle Santos Degollado Colonia Centro Paraíso",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.21402879,18.39556835 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANTE FIESTA BRAVA",
+    "direccion":"Calle Ignacio Comonfort Calle Santos Degollado Calle Melchor Ocampo Calle Miguel Hidalgo Colonia Centro Paraíso",
+    "telefono":"9333334676"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.21483469,18.38990918 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANTE IZTMAR",
+    "direccion":"Calle Francisco Trujillo Gurría Privada Las Margaritas Calle Emiliano Zapata Colonia Quintín Arauz Paraíso",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.21261978,18.39494317 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANTE JUANY",
+    "direccion":"Calle Ignacio Comonfort Calle Buenos Aires Calle Miguel Lerdo De Tejada Calle Miguel Hidalgo Colonia Centro Paraíso",
+    "telefono":"9333332660"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.21505456,18.39447958 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANTE LA CASITA DE GABY",
+    "direccion":"Calle Benito Juárez  Calle Miguel Hidalgo Calle 2  De Abril Calle Melchor Ocampo Colonia Centro Paraíso",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.21068031,18.4053962 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANTE LA CASITA PARAISEÃ‘A",
+    "direccion":"Calle Gregorio Méndez Magaña Calle 8 De Octubre Calle Samuel Magaña Privada 5 De Mayo Colonia Centro Paraíso",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.21571145,18.3957764 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANTE LAS CAZUELITAS VIP",
+    "direccion":"Calle 5 De Mayo Calle Ignacio Comonfort Calle Miguel Hidalgo Calle Gregorio Méndez Magaña Colonia Centro Paraíso",
+    "telefono":"933334896"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.2112504,18.39443571 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANTE MARIMAR",
+    "direccion":"Calle Ignacio Comonfort Calle Río Seco Calle Buenos Aires Calle Hermenegildo Galeana Colonia Centro Paraíso",
+    "telefono":"9333332416"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.21465315,18.39647248 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANTE PUERTO CEIBA",
+    "direccion":"Calle Gregorio Méndez Magaña Calle Hermenegildo Galeana Calle Quintín Arauz Calle Benito Juárez  (Bis) Colonia Centro Paraíso",
+    "telefono":"9333330104"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.20726886,18.40989211 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANTE SAL Y PIMIENTA",
+    "direccion":"Calle Santos Degollado Calle Río Seco Colonia Centro Paraíso",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.1975077,18.36666339 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANTES CON SERVICIO DE PREPARACIÃ“N DE ANTOJITOS",
+    "direccion":"Ejido Monte Adentro Quintín Arauz",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.2096127,18.402837 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANTES CON SERVICIO DE PREPARACIÃ“N DE TACOS Y TORTAS",
+    "direccion":"Calle Santos Degollado Calle Román Magaña Calle Francisco Javier Mina Calle Melchor Ocampo Colonia Centro Paraíso",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.21164457,18.39570634 ]
+    },
+    "properties": {
+    "nombre":"CANIRAC CAMARA NACIONAL DE LA INDUSTRIA DE RESTAURANTES Y ALIMENTOS",
+    "direccion":"Calle José María Morelos Calle Ignacio Zaragoza Calle Hermenegildo Galeana Calle Buenos Aires Colonia Centro Paraíso",
+    "telefono":"9333333093"
+    }
+  }
+]
+}

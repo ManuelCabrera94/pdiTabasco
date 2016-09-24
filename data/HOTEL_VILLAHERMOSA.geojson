@@ -1,0 +1,389 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.94522506,17.99079763 ]
+    },
+    "properties": {
+    "nombre":"HOTEL AZTECA TABASCO",
+    "direccion":"Calle Niños Héroes Calle Emiliano Zapata, Boulevard Adolfo Ruiz Cortines, Boulevard Ruiz Cortinez Colonia Atasta Edificio Comercial Y De Servi-Hotel Azteca Tabasco Villahermosa",
+    "telefono":"9933542219"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.95780455,17.98724436 ]
+    },
+    "properties": {
+    "nombre":"HOTEL BAEZ CARRIZAL",
+    "direccion":"Boulevard Adolfo Ruiz Cortines Calle Del Pacifico, Calle Felipe Carrillo Puerto Privada Colonia Atasta Edificio Comercial Y De Serviceuroplaza Carrizal Villahermosa",
+    "telefono":"9933542163"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.91743852,17.98914097 ]
+    },
+    "properties": {
+    "nombre":"HOTEL CAMINO REAL",
+    "direccion":"Avenida Francisco I. Madero Periférico Carlos Pellicer Cámara Calle Vía Gas Tabasco 2000 Hotel Camino Real Villahermosa",
+    "telefono":"3100201"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.94810443,17.98944943 ]
+    },
+    "properties": {
+    "nombre":"HOTEL CITY EXPRESS VILLAHERMOSA",
+    "direccion":"Boulevard Adolfo Ruiz Cortines Calle Mariano Abasolo Calle Emilio Carranza Calle Emilio Carranza Colonia Atasta De Serra Villahermosa",
+    "telefono":"9933109310"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.95811623,18.0020968 ]
+    },
+    "properties": {
+    "nombre":"HOTEL CROWNE PLAZA VILLAHERMOSA RESORTS",
+    "direccion":"Avenida Paseo Usumacinta Avenida Paseo La Choca Colonia Carrizal Villahermosa",
+    "telefono":"9933103360"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.92089677,17.99594318 ]
+    },
+    "properties": {
+    "nombre":"HOTEL DON LUIS",
+    "direccion":"Calle Lino Merino Calle Eusebio Castillo Calle Francisco Javier Mina Calle Francisco Villa Colonia Centro Villahermosa",
+    "telefono":"9931817680"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.93113855,17.97239063 ]
+    },
+    "properties": {
+    "nombre":"HOTEL DON LUIS",
+    "direccion":"Avenida 16 De Septiembre Avenida Paseo De La Sierra Periférico Carlos Pellicer Cámara Colonia Primero De Mayo Villahermosa",
+    "telefono":"9933146731"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.95535297,18.00434652 ]
+    },
+    "properties": {
+    "nombre":"HOTEL FIESTA INN",
+    "direccion":"Periférico Carlos Pellicer Cámara Avenida Paseo Usumacinta Avenida Paseo Tabasco Calle Paseo La Choca Colonia Tabasco 2000 Pasaje Y Andador Comercial Parque Tabasco Villahermosa",
+    "telefono":"9933101600"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.9263801,18.00501956 ]
+    },
+    "properties": {
+    "nombre":"HOTEL GRAHAM",
+    "direccion":"Privada Profesor Rosendo Taracena Padrón Colonia Magisterial Villahermosa",
+    "telefono":"9933127744"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.95811897,18.00266341 ]
+    },
+    "properties": {
+    "nombre":"HOTEL HOLIDAY INN EXPRESS",
+    "direccion":"Periférico Carlos Pellicer Cámara Avenida Paseo Usumacinta Avenida Paseo Tabasco Avenida Paseo La Choca Colonia La Choca Villahermosa",
+    "telefono":"9933104650"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.93990487,17.99546483 ]
+    },
+    "properties": {
+    "nombre":"HOTEL HYATT REGENCY VILLAHERMOSA",
+    "direccion":"Calle Benito Juárez García Boulevard Adolfo Ruiz Cortinez Calle Lago Ilusión Privada Escorpión Colonia Linda Vista Villahermosa",
+    "telefono":"9933101243"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.93735374,18.00056745 ]
+    },
+    "properties": {
+    "nombre":"HOTEL LA VENTA INN",
+    "direccion":"Boulevard Adolfo Ruiz Cortines Calle Bonanza Calle José Narciso Rovirosa Calle Armenia Fernández Fraccionamiento Oropeza Villahermosa",
+    "telefono":"9933109330"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.92800806,17.97519349 ]
+    },
+    "properties": {
+    "nombre":"HOTEL LUNA AZUL",
+    "direccion":"Avenida Paseo Usumacinta Calle Paseo Usumacinta Calle Circuito Del Parque Calle Del Río Colonia Guayabal Villahermosa",
+    "telefono":"9933139305"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.91749981,17.98890913 ]
+    },
+    "properties": {
+    "nombre":"HOTEL MADAN",
+    "direccion":"Avenida Francisco I. Madero Calle Miguel Lerdo De Tejada Calle Reforma Avenida José María Pino Suárez Colonia Centro  Villahermosa",
+    "telefono":"9933121650"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.91810808,17.98871529 ]
+    },
+    "properties": {
+    "nombre":"HOTEL MIRARAFLORES VILLAHERMOSA",
+    "direccion":"Calle Reforma Calle Centro Villahermosa",
+    "telefono":"3580470"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.91908228,17.98848682 ]
+    },
+    "properties": {
+    "nombre":"HOTEL MISSION EXPRESS VILLAHERMOSA",
+    "direccion":"Calle Ignacio Aldama Calle Reforma Avenida 27 De Febrero Calle Benito Juárez Colonia Centro Villahermosa",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.91697834,17.9893216 ]
+    },
+    "properties": {
+    "nombre":"HOTEL OLMECA PLAZA VILLAHERMOSA",
+    "direccion":"Avenida José María Pino Suárez Calle Miguel Lerdo De Tejada Calle Reforma Calle José María Pino Suárez Colonia Centro Villahermosa",
+    "telefono":"9933580102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.92109583,17.99683564 ]
+    },
+    "properties": {
+    "nombre":"HOTEL PALOMINO PALACE",
+    "direccion":"Avenida Francisco Javier Mina Calle Pedro Fuentes Calle Hermanos Bastar Zozaya Calle Eusebio Castillo Colonia Centro Villahermosa",
+    "telefono":"9933128431"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.91990627,17.98592132 ]
+    },
+    "properties": {
+    "nombre":"HOTEL PLAZA INDEPENDENCIA",
+    "direccion":"Calle Independencia Calle Ignacio Allende Calle Vicente Guerrero Calle Melchor Ocampo Colonia Centro Villahermosa",
+    "telefono":"9933121299"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.92738428,17.97459099 ]
+    },
+    "properties": {
+    "nombre":"HOTEL POSADAS VARESHTA",
+    "direccion":"Avenida Paseo Usumacinta Calle Agapito Domínguez Canabal Calle Ángel Mario Martínez Calle Agapito Domínguez Canabal Colonia Guayabal Villahermosa",
+    "telefono":"3158043"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.91791376,17.98983189 ]
+    },
+    "properties": {
+    "nombre":"HOTEL PROVINCIA EXPRESS",
+    "direccion":"Calle Miguel Lerdo De Tejada Calle Benito Juárez Avenida Francisco I. Madero Avenida 27 De Febrero Colonia Centro Villahermosa",
+    "telefono":"9933145376"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.95605766,18.00058764 ]
+    },
+    "properties": {
+    "nombre":"HOTEL QUINTA REAL VILLAHERMOSA",
+    "direccion":"Calle Paseo La Choca Avenida Paseo Usumacinta Calle Paseo La Choca Periférico Carlos Pellicer Cámara Colonia Tabasco 2000 Villahermosa",
+    "telefono":"9933101300"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.9160056,17.99808536 ]
+    },
+    "properties": {
+    "nombre":"HOTEL SAN JUAN",
+    "direccion":"Calle Venustiano Carranza Boulevard Adolfo Ruiz Cortines Calle Hermanos Bastar Zozaya Calle Doña Fidencia Colonia Centro Villahermosa",
+    "telefono":"9933124456"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.92174222,17.98688712 ]
+    },
+    "properties": {
+    "nombre":"HOTEL SUITES D´CASTILLA",
+    "direccion":"Calle Ignacio Allende Calle Obrero Mundial Calle Peredo Calle Juan De La Barrera Colonia Centro Villahermosa",
+    "telefono":"9933128494"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.92978944,18.00249556 ]
+    },
+    "properties": {
+    "nombre":"HOTEL SUITES REAL DEL LAGO",
+    "direccion":"Calle Sindicato De Salubridad Calle Sindicato De Agricultura Boulevard Adolfo Ruiz Cortines Colonia Adolfo López Mateos Villahermosa",
+    "telefono":"19933125988"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.92742523,17.99637685 ]
+    },
+    "properties": {
+    "nombre":"HOTEL SUITES SAN ANGEL",
+    "direccion":"Avenida José Pagés Llergo Avenida Coronel Gregorio Méndez Magaña Avenida Andrés Sánchez Magallanes Calle Carmen Buendia Fraccionamiento Lidia Esther Villahermosa",
+    "telefono":"9933125144"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.92706014,18.00031612 ]
+    },
+    "properties": {
+    "nombre":"HOTEL TABASCO INN",
+    "direccion":"Avenida José Pagés Llergo Boulevard Adolfo Ruiz Cortines Calle Doctor Lamberto Castellanos Rivera Calle Manuel Gil Y Sáenz Colonia Arboledas Villahermosa",
+    "telefono":"9933143592"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.91654151,17.99078792 ]
+    },
+    "properties": {
+    "nombre":"HOTEL TABSCOOB",
+    "direccion":"Avenida José María Pino Suárez Calle General Ignacio Zaragoza Calle Manuel Sanchez Marmol Avenida Carlos A Madrazo Colonia Centro Villahermosa",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.92298333,17.99526539 ]
+    },
+    "properties": {
+    "nombre":"HOTEL VILLA MARGARITA",
+    "direccion":"Calle Andrés Sánchez Magallanes Calle Francisco Javier Mina Calle Manuel Gil Y Saenz Calle Lino Merino Colonia Centro Villahermosa",
+    "telefono":"9931313189"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.94049994,17.99683166 ]
+    },
+    "properties": {
+    "nombre":"HOTEL VIVA VILLAHERMOSA",
+    "direccion":"Boulevard Adolfo Ruiz Cortines Calle Benito Juárez García Avenida Paseo Tabasco Calle Benito Juárez García Colonia Linda Vista Villahermosa",
+    "telefono":"9933136000"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.91558697,17.99766639 ]
+    },
+    "properties": {
+    "nombre":"HOTEL Y RESTAURANT RIUZ DE TABASCO",
+    "direccion":"Avenida Francisco I. Madero Boulevard Adolfo Ruiz Cortines Calle Hermanos Bastar Zozaya Calle Venustiano Carranza Colonia Centro Villahermosa",
+    "telefono":"9933121611"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.01413669,17.98307641 ]
+    },
+    "properties": {
+    "nombre":"HOTEL ZIESTA PARK",
+    "direccion":"Calle Federal Calle El Guasimo  Privada  Ranchería Anacleto Canabal Segunda Sección Anacleto Canabal 2da. Sección",
+    "telefono":"9931427055"
+    }
+  }
+]
+}

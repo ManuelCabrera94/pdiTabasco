@@ -1,0 +1,161 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.21537863,18.39987415 ]
+    },
+    "properties": {
+    "nombre":"HOTEL AXEMÍ",
+    "direccion":"Calle Gutiérrez Zamora Calle 5 De Mayo Calle Leandro Valle Limón Paraíso",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.21386196,18.39599783 ]
+    },
+    "properties": {
+    "nombre":"HOTEL AZUL MAR",
+    "direccion":"Calle Melchor Ocampo Calle Ignacio Comonfort Calle Hermenegildo Galeana Calle Santos Degollados Colonia Centro Paraíso",
+    "telefono":"9333332308"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.22170277,18.38403965 ]
+    },
+    "properties": {
+    "nombre":"HOTEL BÁEZ PARAÍSO",
+    "direccion":"Boulevard Manuel A. Romero Zurita, Quintín Arauz Paraíso",
+    "telefono":"9333331892"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.20954931,18.39763031 ]
+    },
+    "properties": {
+    "nombre":"HOTEL BUENOS AIRES",
+    "direccion":"Calle Gutiérrez Zamora Calle Río Seco Calle Buenos Aires Calle Gutiérrez Zamora Colonia Centro Paraíso",
+    "telefono":"9333330850"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.21688175,18.39784349 ]
+    },
+    "properties": {
+    "nombre":"HOTEL COSTA ESMERALDA",
+    "direccion":"Calle Hermenegildo Galeana Calle Leandro Valle Libramiento A Dos Bocas Calle Ignacio Zaragoza Colonia Centro Paraíso",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.20645759,18.39326964 ]
+    },
+    "properties": {
+    "nombre":"HOTEL DOS CEIBAS SUITES",
+    "direccion":"Calle Manuel R. Domínguez Privada Libertad Calle Ninguno Prolongación Ignacio Comonfort Colonia La Ceiba Unidad Deportiva Hotel Dos Ceibas Paraíso",
+    "telefono":"933342066"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.2150751,18.39736637 ]
+    },
+    "properties": {
+    "nombre":"HOTEL EMPRESARIAL",
+    "direccion":"Calle 5 De Mayo Calle Hermenegildo Galean Calle Ignacio Zaragoza Calle Gregorio Méndez Colonia Centro Paraíso",
+    "telefono":"9333332043"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.203595,18.408054 ]
+    },
+    "properties": {
+    "nombre":"HOTEL HOLIDAY INN EXPRESS PARAÍSO DOS BOCAS",
+    "direccion":"Carretera Estatal Paraíso - Puerto Ceiba , Puerto Ceiba (Carrizal) Paraíso",
+    "telefono":"9333335200"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.21609915,18.39432479 ]
+    },
+    "properties": {
+    "nombre":"HOTEL LA FINCA SUITE",
+    "direccion":"Calle 2 De Abril Calle 5 De Mayo Privada Gregorio Méndez Magaña Colonia Centro Paraíso",
+    "telefono":"93335110"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.21610591,18.39432645 ]
+    },
+    "properties": {
+    "nombre":"HOTEL LA FINCA SUITES",
+    "direccion":"Calle 2 De Abril Calle 5 De Mayo Privada Gregorio Méndez Magaña Centro Paraíso",
+    "telefono":"9333335110"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.20744679,18.41208869 ]
+    },
+    "properties": {
+    "nombre":"HOTEL LA LUPITA",
+    "direccion":"Calle Santos Degollado El Limoncito Paraíso",
+    "telefono":"9333333615"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.23911972,18.43788506 ]
+    },
+    "properties": {
+    "nombre":"HOTEL PARAÍSO Y MAR",
+    "direccion":"Ranchería Las Flores 2d Sección Las Flores 2da. Sección",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.21279009,18.39887817 ]
+    },
+    "properties": {
+    "nombre":"HOTEL SAN ÁNGEL",
+    "direccion":"Calle Gutiérrez Zamora Calle Benito Juárez Calle Melchor Ocampo Calle Manuel Doblado Colonia Centro Paraíso",
+    "telefono":"9333331122"
+    }
+  }
+]
+}

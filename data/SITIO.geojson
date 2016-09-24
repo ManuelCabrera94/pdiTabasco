@@ -1,0 +1,197 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.936588,18.00076 ]
+    },
+    "properties": {
+    "nombre":"PARQUE-MUSEO \"LA VENTA\"",
+    "direccion":"Boulevard Adolfo Ruiz Cortines s/n, Jesús García, 86040 Villahermosa, Tab., México",
+    "telefono":"+52 1 993 314 1652"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.936588,18.00076 ]
+    },
+    "properties": {
+    "nombre":"MUSEO REGIONAL DE ANTROPOLOGÍA \"CARLOS PELLICER CÁMARA\"",
+    "direccion":"Periférico Carlos Pellicer Cámara 511, Zona CICOM, Centro, 86000 Villahermosa, Tab., México",
+    "telefono":"+52 993 312 6344"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.932563,18.002161 ]
+    },
+    "properties": {
+    "nombre":"MUSEO DE HISTORIA NATURAL",
+    "direccion":"Boulevard Adolfo Ruiz Cortines AREA VERDE, Jesús García, 86040 Villahermosa, Tab., México",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.919098,17.990194 ]
+    },
+    "properties": {
+    "nombre":"CASA-MUSEO CARLOS PELLICER CÁMARA",
+    "direccion":"Narciso Sáenz 203, Centro Delegación Dos, 86077 Villahermosa, Tab., México",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.927931,17.9887 ]
+    },
+    "properties": {
+    "nombre":"MUSEO DE HISTORIA DE TABASCO (CASA DE LOS AZULEJOS)",
+    "direccion":"Av 27 de Febrero, Centro, 86000 Villahermosa, Tab., México",
+    "telefono":"+52 993 314 2172"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.922272,17.998635 ]
+    },
+    "properties": {
+    "nombre":"CASA \"SIEMPRE VIVA\" ISABEL RULLÁN DE IZUNDEGUI",
+    "direccion":"Narciso Sáenz 602, Centro, 86000 Villahermosa, Tab., México",
+    "telefono":"+52 993 312 0157"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.927931,17.9887 ]
+    },
+    "properties": {
+    "nombre":"CATEDRAL DEL SEÑOR DE TABASCO",
+    "direccion":"Av 27 de Febrero esquina Paseo Tabasco, Centro, 86070 Villahermosa, TAB, México",
+    "telefono":"+52 993 315 1090"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.946405,17.999301 ]
+    },
+    "properties": {
+    "nombre":"PLANETARIO TABASCO 2000",
+    "direccion":"Av. Planetario, Los Ríos, 86035 Villahermosa, Tab., México",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.956205,17.995209 ]
+    },
+    "properties": {
+    "nombre":"TEATRO DEL ESTADO ESPERANZA IRIS",
+    "direccion":"Periférico Carlos Pellicer Cámara s/n, Centro, 86000 Villahermosa, Tab., México",
+    "telefono":"+52 993 314 4210"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.8040911,18.0005475 ]
+    },
+    "properties": {
+    "nombre":"YUMKA",
+    "direccion":"Ranchería Las Barrancas s/n, 86280 Villahermosa, Tab., México",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.218806,18.278763 ]
+    },
+    "properties": {
+    "nombre":"MUSEO COMUNITARIO DE LA VIRGEN DE CUPILCO",
+    "direccion":"Cupilco, 86670 Comalcalco, Tab., México",
+    "telefono":"+52 914 336 6115"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.2083,18.25 ]
+    },
+    "properties": {
+    "nombre":"ZONA ARQUEOLÓGICA DE COMALCALCO",
+    "direccion":"Carretera a La Zona Arqueológica, Villahermosa, Tab., México",
+    "telefono":"+52 933 337 0274"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.223047,18.26717 ]
+    },
+    "properties": {
+    "nombre":"HACIENDAS CACAOTERAS: LA LUZ",
+    "direccion":"Calle Gil y Sáenz S/N, Centro, 86300 Comalcalco, Tab., México",
+    "telefono":"+52 933 334 1126"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.18,18.411389 ]
+    },
+    "properties": {
+    "nombre":"PUERTO CEIBA",
+    "direccion":"",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.178461,18.413887 ]
+    },
+    "properties": {
+    "nombre":"PARQUE TEMÁTICO \"REPÚBLICA DE PARAÍSO\" ",
+    "direccion":"Puerto Ceiba, Tab., México",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.1603525,18.4243097 ]
+    },
+    "properties": {
+    "nombre":"EL BELLOTE",
+    "direccion":"Carretera Paraíso-El bellote antes de cruzar el puente del paso de El bellote., 86600 Paraíso, Tab., México",
+    "telefono":"SN"
+    }
+  }
+]
+}

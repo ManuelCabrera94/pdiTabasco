@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html>
+  <head> 
+	<meta charset="utf-8">
+
+    
+    <title>PDI Tabasco</title>
+	<link rel="icon" type="image/png" href="assets/img/mapa.jpg" />
+   <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/leaflet.css">
+    <link rel="stylesheet" href="https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/MarkerCluster.css">
+    <link rel="stylesheet" href="https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/MarkerCluster.Default.css">
+    <link rel="stylesheet" href="https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-locatecontrol/v0.43.0/L.Control.Locate.css">
+    <link rel="stylesheet" href="assets/leaflet-groupedlayercontrol/leaflet.groupedlayercontrol.css">
+    <link rel="stylesheet" href="assets/css/app.css">
+  </head>
+
+  <body>
+    
+    
+<div class="header" >
+
+        
+
+
+    <nav class="navbar navbar-default navbar-fixed-top" role="navigation" id="header">
+      <!-- El logotipo y el icono que despliega el menú se agrupan
+       para mostrarlos mejor en los dispositivos móviles -->
+      <div class="navbar-header" id="barra">
+    <button type="button" class="navbar-toggle" data-toggle="collapse"
+            data-target=".navbar-ex1-collapse">
+      <span class="sr-only">Desplegar navegación</span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>
+    <a class="navbar-brand" href="#"><img src="assets/img/logoa.png" name="Insert_logo" id="logo"/> </a>
+  </div>
+ 
+  <!-- Agrupar los enlaces de navegación, los formularios y cualquier
+       otro elemento que se pueda ocultar al minimizar la barra -->
+  <div class="collapse navbar-collapse navbar-ex1-collapse">
+    <ul class="nav navbar-nav navbar-right" id="barra">
+      <li><a href="#" name="about-btn" id="about-btn" data-toggle="collapse" data-target=".navbar-collapse.in"><img src="assets/img/Info.png" id="ico-menu"/> Acerca</a></li>
+      <li class="dropdown">
+      <a id="toolsDrop" href="#" role="button" class="dropdown-toggle" data-toggle="dropdown"> <img src="assets/img/Gear.png" id="ico-menu"/>          Herramientas <b class="caret"></b></a>
+         <ul class="dropdown-menu">
+                <li><a href="#" data-toggle="collapse" data-target=".navbar-collapse.in" id="full-extent-btn"><i class="fa fa-arrows-alt"></i> Zoom</a></li>
+                <li><a href="#" data-toggle="collapse" data-target=".navbar-collapse.in" id="legend-btn"><i class="fa fa-picture-o"></i> Leyenda</a></li>
+          
+        </ul>
+      </li>
+      <li class="hidden-xs"><a href="#" data-toggle="collapse" data-target=".navbar-collapse.in" id="list-btn"><img src="assets/img/File_List.png" id="ico-menu"/> Lista</a></li>
+    </ul>
+  </div>
+</nav>
+
+
+  <!-- end .header --></div>
+
+    <div id="container">
+    
+      <div id="sidebar">
+        <div class="sidebar-wrapper" id="leyen">
+          <div class="panel panel-default" id="features">
+            <div class="panel-heading">
+              <h3 class="panel-title"><img src="assets/img/Location.png" width="20" height="30"/> Puntos de Inter&eacute;s
+              <button type="button" class="btn btn-xs btn-default pull-right" id="sidebar-hide-btn"><i class="fa fa-chevron-left"></i></button></h3>
+            </div>
+            <div class="panel-body">
+              <div class="row">
+                <div class="col-xs-8 col-md-8">
+                  <input type="text" class="form-control search" placeholder="Búsqueda" />
+                </div>
+                <div class="col-xs-4 col-md-4">
+                  <button type="button" class="btn btn-primary pull-right sort" data-sort="feature-nombre" id="sort-btn"><i class="fa fa-sort"></i>&nbsp;&nbsp;Ordenar</button>
+                </div>
+              </div>
+            </div>
+            <div class="sidebar-table">
+              <table class="table table-hover" id="feature-list">
+                <thead class="hidden">
+                  <tr>
+                    <th>Icon</th>
+                  <tr>
+                  <tr>
+                    <th>Name</th>
+                  <tr>
+                  <tr>
+                    <th>Chevron</th>
+                  <tr>
+                </thead>
+                <tbody class="list"></tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="map"></div>
+    </div>
+    
+   <div class="modal fade" id="aboutModal" tabindex="-1" role="dialog">
+      <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button class="close" type="button" data-dismiss="modal" aria-hidden="true">&times;</button>
+            <h4 class="modal-title">¡Bienvenido a la Guía Turistica de Tabasco!</h4>
+          </div>
+          <div class="modal-body">
+            <ul class="nav nav-tabs nav-justified" id="aboutTabs">
+              <li class="active"><a href="#about" data-toggle="tab"><img src="assets/img/suitcase.png" id="info-ico"/> Villahermosa</a></li>
+              <li><a href="#comal" data-toggle="tab"><img src="assets/img/camera.png" id="info-ico"/> Comalcalco</a></li>
+              <li><a href="#paraiso" data-toggle="tab"><img src="assets/img/palm_tree.png" id="info-ico"/> Paraíso</a></li>
+              <li><a href="#final" data-toggle="tab"><img src="assets/img/user_group.png" id="info-ico"/>Creación</a></li>
+            </ul>
+           
+           <div class="tab-content" --id="aboutTabsContent">
+              <div class="tab-pane fade active in" id="about">
+                <p>El estado de Tabasco podrá ser pequeño en cuanto a superficie en comparación con otros estados de la República Mexicana, pero en cuanto a la variedad de atractivos tanto para el residente local como para el turista nacional, como para el extranjero, Tabasco ofrece a lo grande.</p>
+                <p>Tan sólo la capital Villahermosa ofrece varios lugares interesantes que puedes ir a conocer, ya sea que vayas por tu cuenta, en pareja, o en familia.</p>
+<p>Ten en cuenta que debido a la ubicación geográfica, el clima de la región va a ser algo caliente y húmedo, así que si eres de los que no soportan mucho ese tipo de condiciones, tal vez consideres ir en temporada de invierno. </p><br/>
+                <div class="panel panel-primary">
+                  <div class="panel-heading">¿Qué puedo visitar?</div>
+                  <ul class="list-group">
+                    <li class="list-group-item">Reserva ecológica Yumka’</li>
+                    <li class="list-group-item">Parque Museo “La Venta”</li>
+                    <li class="list-group-item">Parque Tomás Garrido</li>
+                    <li class="list-group-item">Catedral de Villahermosa</li>
+                    <li class="list-group-item">Centro Histórico y La Zona Luz</li>
+                  </ul>
+                </div>
+              </div>
+             <div id="comal" class="tab-pane fade text-justify">
+               <p>Es posible deleitarse con una deliciosa y aromática aventura al recorrer la ruta del cacao en la que viven Mayas – Chontales y conocer sitios arqueológicos, antiguas haciendas cacaoteras, lagunas y playas vírgenes de gran belleza. </p>
+               <div class="panel panel-primary">
+                <div class="panel-heading">¿Qué puedo visitar?</div>
+               <ul class="list-group">
+    				<li class="list-group-item">Templo de la Virgen de la Asunción "Cupilco"</li>
+                    <li class="list-group-item">Zona Arqueológica de Comalcalco (Cultura Maya)</li>
+                    <li class="list-group-item">Haciendas Cacaoteras: La Luz, Jesús María y Cholula </li>
+                    <li class="list-group-item">Museo del Cacao</li>
+                  </ul>
+              </div>
+              </div>
+           
+              <div class="tab-pane fade text-danger" id="paraiso">
+                <p>La Ruta del Cacao podría ser más completa si se hace el recorrido desde Puerto Ceiba por la Laguna de Mecoacán, a través de paseos en lancha para la observación de flora y fauna y actividades acuáticas. También visite el corredor turístico Puerto Ceiba-Chiltepec- El bellote y deguste la gastronomía de la costa </p>
+                <div class="panel panel-primary">
+                 <div class="panel-heading">¿Qué puedo visitar?</div>
+               <ul class="list-group">
+    				<li class="list-group-item">Playas (Paraíso, Varadero, Bruja y Limón)</li>
+                    <li class="list-group-item">Villa Puerto Ceiba</li>
+                    <li class="list-group-item">Parque Temático "República de Paraíso"</li>
+                    <li class="list-group-item">Laguna de Mecoacán </li>
+                    <li class="list-group-item">Parador Turístico "Puerto Ceiba"</li> 
+                    <li class="list-group-item">Corredor Gastronómico "Puerto Ceiba" - El Bellote - Chiltepec</li>
+                  </ul> 
+                  </div>
+              
+              </div>
+              
+             <div class="tab-pane fade text-danger" id="final">
+            	<div class="panel panel-primary">
+                 <div class="panel-heading text-center">Datos de los Creadores</div>
+                <p class="text-center">Universidad Juárez Autónoma de Tabasco<br/>
+             División Académica de Informática y Sistemas</p>
+            <p class="text-center"> Estudiantes de la Licenciatura en Sistemas Computacionales:</p><br/>
+                <p class="text-center">
+                	<img src="assets/img/studen2.png" id="info-ico"/> Valeria Ramos Osorio<br/>
+                	<img src="assets/img/studen2.png" id="info-ico"/> Manuel Alejandro Cabrera Jerónimo</p>
+                    <hr>
+                    <p class="text-center">Asesor:
+                    <br/> <img src="assets/img/teacher.png" id="info-ico"/>MATI. Arturo Corona Ferreira</p>  
+                </div>
+                        
+             </div>
+          </div>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+          </div>
+        </div><!-- /.modal-content -->
+      </div><!-- /.modal-dialog -->
+    </div>
+    </div><!-- /.modal -->
+
+    <div class="modal fade" id="legendModal" tabindex="-1" role="dialog">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            <h4 class="modal-title"><img src="assets/img/Clipboard_Full.png" width="28" height="32"/> Leyenda del mapa</h4>
+          </div>
+          <div class="modal-body">
+            <table class="table table-hover">
+                  <tr>
+                    <th>Significado</th>
+                    <th> </th>
+                    <th>Imagen</th>
+                  </tr>
+                  <tr>
+                  <th>Hotel</th>
+                  <th> </th>
+                    <th><img src="assets/img/hot_ico.png" width="30" height="30"/></th>                  
+                  </tr>
+                  <tr>
+                    <th>Restaurante</th>
+                    <th> </th>
+                    <th><img src="assets/img/res_ico.png" width="30" height="30"/> </th>
+                  </tr>
+                 <tr>
+                    <th>De 2 a 10 lugares cercanos</th>
+                    <th> </th>
+                    <th><img src="assets/img/circ_verde.png" width="30" height="30"/></th>
+                  </tr>
+                  <tr>
+                    <th>Más de 11 lugares cercanos</th>
+                    <th> </th>
+                    <th><img src="assets/img/circ_amarillo.png" width="30" height="30"/> </th>
+                  </tr> 
+              </table>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+
+          </div>
+        </div><!-- /.modal-content -->
+      </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+  <div class="modal fade" id="featureModal" tabindex="-1" role="dialog">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button class="close" type="button" data-dismiss="modal" aria-hidden="true">&times;</button>
+            <h4 class="modal-title text-primary" id="feature-title"></h4>
+          </div>
+          <div class="modal-body" id="feature-info"></div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+          </div>
+      </div><!--  /.modal-content -->
+    </div>  <!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+
+    <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/typeahead.js/0.10.5/typeahead.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/3.0.3/handlebars.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/list.js/1.1.1/list.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/leaflet.js"></script>
+    <script src="https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/leaflet.markercluster.js"></script>
+    <script src="https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-locatecontrol/v0.43.0/L.Control.Locate.min.js"></script>
+    <script src="assets/leaflet-groupedlayercontrol/leaflet.groupedlayercontrol.js"></script>
+    <script src="assets/js/app.js"></script>
+  </body>
+</html>

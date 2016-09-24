@@ -1,0 +1,77 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.22342772,18.26177808 ]
+    },
+    "properties": {
+    "nombre":"HOTEL COPACABANA",
+    "direccion":"Calle Aquiles Serdán Calle José María Morelos Y Pavón Avenida Benito Juárez García Calle Nicolás Bravo Colonia Centro Comalcalco",
+    "telefono":"9333341933"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.22349434,18.27140851 ]
+    },
+    "properties": {
+    "nombre":"HOTEL GALIMA",
+    "direccion":"Avenida Reforma Calle Marín Reyes Colonia Belén Comalcalco",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.22323942,18.26805641 ]
+    },
+    "properties": {
+    "nombre":"HOTEL SAN LORENZO",
+    "direccion":"Avenida Reforma Calle Gil Y Sáenz Calle Andrés Sánchez Magallanes Calle Marín Reyes Colonia Centro Comalcalco",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.22366042,18.26221953 ]
+    },
+    "properties": {
+    "nombre":"HOTEL SANTANDER",
+    "direccion":"Calle Mariano Escobedo Calle José María Morelos Y Pavón Calle Benito Juárez García Calle Zaragoza Colonia Centro Comalcalco",
+    "telefono":"9333340690"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.22355975,18.26226677 ]
+    },
+    "properties": {
+    "nombre":"HOTEL SANTANDER",
+    "direccion":"Calle Mariano Escobedo Calle José María Morelos Y Pavón Avenida Benito Juárez García Calle Aquiles Serdán Colonia Centro Comalcalco",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.21304372,18.28209483 ]
+    },
+    "properties": {
+    "nombre":"HOTEL TIERRA MAYA",
+    "direccion":"Carretera A Zona Arqueológica Colonia Buena Vista Comalcalco",
+    "telefono":"9331246446"
+    }
+  }
+]
+}

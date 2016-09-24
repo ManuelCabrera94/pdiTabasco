@@ -1,0 +1,473 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.22091727,18.26417027 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANTE BAR CALIFORNIA",
+    "direccion":"Avenida Gregorio Méndez Magaña avenida reforma calle Nicolás Bravo avenida Reforma colonia centro Comalcalco",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.22436091,18.26414353 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANTE HANG TING",
+    "direccion":"Avenida Benito Juárez García calle Abasolo calle Arista calle José María Morelos Y Pavón colonia centro Comalcalco",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.22543524,18.26503132 ]
+    },
+    "properties": {
+    "nombre":"BAMBU RESTAURANTE - SUSHI BAR",
+    "direccion":"Calle 5 De Mayo calle arista calle David Bosada calle Ignacio Zaragoza colonia centro Comalcalco",
+    "telefono":"9333371132"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.22638167,18.27346234 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANT BAR BARILOCHE",
+    "direccion":"Boulevard Leandro Rovirosa Wades boulevard Leandro Rovirosa Wade calle ninguno calle ninguno colonia san Francisco Comalcalco",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.3470264,18.2418457 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANT BAR BUGAMBILIA",
+    "direccion":"Calle 27 De Febrero calle Hermenegildo Galeana calle Emiliano Zapata calle Antonio León Ferrer villa Aldama Aldama Comalcalco",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.22499685,18.26332329 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANT BAR ZARAGOZA",
+    "direccion":"Calle Ignacio Zaragoza avenida Gregorio Méndez Magaña calle mariano Abasolo boulevard Leandro Rovirosa Wade colonia centro Comalcalco",
+    "telefono":"9333346238"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.22040114,18.26711904 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANT BIG MAMMA",
+    "direccion":"Boulevard Adolfo López Mateos calle Martinica privada gil Y Sáenz calle Martinica colonia centro Comalcalco",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.21809983,18.25670677 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANT BURGER KING",
+    "direccion":"Calle Ignacio López Rayón boulevard Adolfo López Mateos carretera ninguno avenida Benito Juárez García colonia santa Amalia Comalcalco",
+    "telefono":"1933344486"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.22493574,18.26334713 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANT CABAÑAS GRIL",
+    "direccion":"Calle Ignacio Zaragoza calle Mariano Abasolo avenida Gregorio Méndez Magaña calle José María Morelos Y Pavón colonia centro Comalcalco",
+    "telefono":"9333342018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.22656241,18.26159097 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANT CAZUELITAS",
+    "direccion":"Boulevard Leandro Rovirosa Wade prolongación Manuel González calle buenos Aires ninguna colonia centro Comalcalco",
+    "telefono":"9333370589"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.21850249,18.27400636 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANT DE COMIDA CHINA DRAGÓN TOWN",
+    "direccion":"Boulevard Adolfo López Mateos calle Guillermo Prieto calle gil Y Sáenz ninguno colonia centro Comalcalco",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.22321769,18.26795554 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANT DELICIAS REGIAS",
+    "direccion":"Avenida reforma calle gil Y Sáenz calle Andrés Sánchez Magallanes calle Marín Reyes colonia centro Comalcalco",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.21731572,18.26579776 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANT EL SAZÓN DE LA CHOCA",
+    "direccion":"Avenida Trinidad calle Haití Calle granada calle Tobago fraccionamiento santo Domingo Comalcalco",
+    "telefono":"9333342377"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.31504797,18.2678434 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANT LA GLORIA",
+    "direccion":"Calle ninguno cerrada entrada San Ramón calle Miguel Hidalgo Comalcalco",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.22132269,18.25030391 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANT LA REGLA DE ORO 2",
+    "direccion":"Calle Emiliano Zapata privada ninguno boulevard Leandro Rovirosa Wade boulevard Leandro Rovirosa Wade colonia santa Amalia Comalcalco",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.21357402,18.24873831 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANT MARY",
+    "direccion":"Boulevard Adolfo López Mateos carretera oriente 1ra carretera oriente 1ra Comalcalco",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.22642713,18.27318284 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANT PICADAS GOURMET",
+    "direccion":"Boulevard Leandro Rovirosa Wade boulevard Leandro Rovirosa Wade colonia San Francisco Comalcalco",
+    "telefono":"9333342278"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.22756502,18.26762021 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANT RANCHO VIEJO",
+    "direccion":"Boulevard Leandro Rovirosa Wade avenida Otto Wolter Peralta colonia centro Comalcalco",
+    "telefono":"9333343046"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.21597454,18.27819363 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANT TERRAZA GRILL",
+    "direccion":"Boulevard Adolfo López Mateos calle Uxmal boulevard Adolfo López Mateos ranchería Norte Comalcalco",
+    "telefono":"9333342175"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.22012215,18.27106246 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANT Y TAQUERÍA LAS CAZUELITAS",
+    "direccion":"Boulevard Adolfo López Mateos privada Gil Y Sáenz prolongación maría Paz Chapuz boulevard Adolfo López Mateos colonia centro Comalcalco",
+    "telefono":"9333342099"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.22667508,18.26189651 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANT YULI",
+    "direccion":"Boulevard Leandro Rovirosa Wade prolongación Manuel González calle buenos Aires calle 11 colonia centro Comalcalco",
+    "telefono":"93331032314"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.22405473,18.27782223 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANTE ARGENTINO TACON VOS",
+    "direccion":"Boulevard Leandro Rovirosa Wade calle santos Degollado colonia San Silverio Comalcalco",
+    "telefono":"9333341084"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.22109399,18.263565 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANTE BAR EL ACUARIO",
+    "direccion":"Calle Escobedo Oriente avenida reforma calle Vicente Ocharón calle Nicolás Bravo colonia centro Comalcalco",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.34498497,18.39183547 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANTE BAR EL MELÓN",
+    "direccion":"Calle paso La Unión cerrada ninguno calle entrada A Chicozapote calle santa Cruz cocohital Sector 3 cocohital Comalcalco",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.22134698,18.26106588 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANTE BAR EL MINGO",
+    "direccion":"Avenida reforma calle Manuel González calle Nicolás Bravo calle Miguel Lerdo De Tejada colonia centro Comalcalco",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.22653402,18.27235724 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANTE BAR FAMILIAR PUNTA DEL ESTE",
+    "direccion":"Boulevard Leandro Rovirosa Wade Ovidio Pulido colonia San Francisco Comalcalco",
+    "telefono":"9333370965"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.21653855,18.25576248 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANTE BAR LOS BAMBU",
+    "direccion":"Boulevard Adolfo López Mateos calle Adolfo López Mateos calle Adolfo Ruiz Cortinez colonia las rosas Comalcalco",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.22067846,18.26257503 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANTE BAR TROPICANA CLUB",
+    "direccion":"Calle Vicente Ocharón calle Nicolás Bravo calle Escobedo Oriente calle Escobedo Oriente colonia centro Comalcalco",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.21961061,18.26795328 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANTE DE MARISCOS EL TIBURÓN BLANCO",
+    "direccion":"Privada Gil Y Sáenz boulevard Adolfo López Mateos privada buganvilias colonia centro Comalcalco",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.21753807,18.25751272 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANTE EL ANAFRE",
+    "direccion":"Boulevard Adolfo López Mateos calle gladiolas calle girasoles calle gladiolas colonia las Rosas Comalcalco",
+    "telefono":"9333344177"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.22214587,18.25976827 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANTE EL FOGON",
+    "direccion":"Calle pedro C. Colorado calle José María Morelos Y Pavón avenida Benito Juárez García colonia centro Comalcalco",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.35556349,18.24134259 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANTE FAMILIAR EL SIETE MARES",
+    "direccion":"Calle lázaro Cárdenas calle 27 De Febrero calle Carlos Green calle 27 De Febrero villa Aldama",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.20510675,18.2571994 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANTE LA ESTANCIA",
+    "direccion":"carretera a Chichicapa carretera antigua A Chichicapa- Santo Domingo colonia las Rosas Comalcalco",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.22281868,18.26135122 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANTE LOS FAROLES",
+    "direccion":"Avenida Benito Juárez García calle Nicolás Bravo calle Aquiles Serdán colonia Centro Comalcalco",
+    "telefono":"9333341342"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.21688306,18.25595877 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANTE LOS MAGUEYES",
+    "direccion":"Boulevard Adolfo López Mateos boulevard Adolfo López Mateos calle Ignacio López Rayón boulevard Adolfo López Mateos colonia santa Amalia Comalcalco",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.22135551,18.26401877 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANTE LOS TIMBALES",
+    "direccion":"Avenida Gregorio Méndez Magaña avenida Reforma calle Nicolás Bravo calle Escobedo Oriente colonia centro Comalcalco",
+    "telefono":"SN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.21924058,18.26472933 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANTE MONTE MARI",
+    "direccion":"Calle Tobago calle Haití Calle Monserrat avenida Trinidad fraccionamiento santo Domingo Comalcalco",
+    "telefono":"9333348926"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.22139389,18.25885453 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANTE NUEVO LEÓN",
+    "direccion":"Avenida Benito Juárez García calle Francisco Javier Mina calle corregidora calle José María Morelos Y Pavón colonia centro Comalcalco",
+    "telefono":"9333344943"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.2242752,18.26502879 ]
+    },
+    "properties": {
+    "nombre":"RESTAURANTE XING-GONNG",
+    "direccion":"Calle Sánchez Mármol calle David Bosada calle Arista calle David Bosada colonia centro Comalcalco",
+    "telefono":"93332933006"
+    }
+  }
+]
+}
